@@ -1,0 +1,114 @@
+/*start navigation*/
+
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Montagu Slab', serif;
+	margin-left: 27px;
+	margin-top: 20px;
+}
+.log{
+	color: #FA6980;
+}
+.nav-1{
+	color: #343638;
+}
+.active{
+	color: black;
+}
+/*end navigation*/
+/*start section 1*/
+.section{
+    margin-left: 10px;    
+}
+.image-text {
+    position: relative;
+    margin: 40px 40px;
+    display: inline-block;
+}
+.text-image {
+    position: absolute;
+	top: 28px;
+	left: 40px;
+    font-family: 'Montagu Slab', serif; 
+    font-size: 16px;
+	color: #FFFFFF;			
+}
+.section-title {
+    margin: 25px 40px;
+    font-family: 'Montagu Slab', serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.text-image2 {
+    width: 280px;
+    font-size: 13px;
+    margin: 66px 40px;
+    line-height: 21px;
+    font-family: 'Montagu Slab', serif;
+}
+.timer {
+    margin-top: 10px;
+}
+
+.
+/*end section 1*/
+/*start section 2*/
+.section2{
+	margin-left: 140px;
+
+}
+.div-images{
+	display: inline-block;
+	width: 760px;
+	margin-left: 40px;
+}
+.ground{
+	margin-top: 40px;
+}
+.section2-3p{
+	display: inline-block;
+	width: 360px;
+	vertical-align: top;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.bird{
+	margin-top: 108px;
+	margin-bottom: 108px;
+}
+/*end section 2*/
+/*footer*/
+.f1{
+	background: #A6ADB4;
+	font-family: 'Montagu Slab', serif;
+	margin-top: 34px;
+}
+.LOG2{display: inline-block;
+	font-size: 13px;
+	font-family: 'Montagu Slab', serif;
+	color: #FFFFFF;
+	vertical-align: top;
+	margin-top: 56px 190 px;
+	font-weight: bold;
+
+}
+.list{
+	display: inline-block;
+	font-family: 'Montagu Slab', serif;
+	margin: 60px 90px 8px;
+	font-size: 13px;
+
+}
+.f-text{
+	display: inline-block;
+	margin: 62px 110px;
+	font-size: 11px;
+	vertical-align: top;
+}
+.icons{
+	display: inline-block;
+	margin: 56px 138px;
+}
+/*end footer*/
+/*qalbatono qristina imdeia naxavt es ori gverdi ver gamoivwie marjvni utiteb magram marto erti modraobs*/
